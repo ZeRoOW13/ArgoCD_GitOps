@@ -1,5 +1,5 @@
 replicas: 1
 image:
   repository: tobias13/spring
-  tag: 31.0.0
+  tag: 33.0.0
 environment: staging
